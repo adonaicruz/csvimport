@@ -1,0 +1,19 @@
+{
+    "name": "adonaicruz/csvimport",
+    "description": "CSV Import library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adonai Cruz",
+            "email": "adonai.cruz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/CsvImport.php"
+        ]
+    }
+}
